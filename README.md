@@ -1,1 +1,2 @@
-# calcDiv-master
+# calcDiv
+ejercicio phyton N°1
